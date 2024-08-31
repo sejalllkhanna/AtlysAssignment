@@ -1,6 +1,6 @@
 # AtlysAssignment
 
-I am Sejal Khanna and this is my submission for the Atlys Assignmnet.
+I am Sejal Khanna and this is my submission for the Atlys Assignment.
 Product Requirement Doc - https://goatlys.notion.site/iOS-Take-home-assignment-Atlys-1b5f3d9577b5470aa1a1a3b44c485e55 
 
 Screenshots(for refernce) :
